@@ -5,7 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/python/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="~\AppData\Local\Programs\Python\Python311\python.exe" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="~\Documents\GitHub\banco-de-dados\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

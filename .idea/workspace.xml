@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af8ba7a5-a65a-4078-8db8-a33f1ddb5963" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/banco-de-dados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/banco-de-dados.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/schemas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,23 +42,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.4965496857161933" />
-      <entry key="MS500" value="1.9505126762527771" />
-      <entry key="S2" value="2.795626827542089" />
-      <entry key="S5" value="4.6455802556804375" />
-      <entry key="S10" value="6.676485278065733" />
-      <entry key="S30" value="9.173120973707007" />
-      <entry key="S60" value="10.02661766131916" />
-      <entry key="M2" value="10.497262520401215" />
-      <entry key="M5" value="10.794940989773721" />
-      <entry key="M10" value="10.911685793526509" />
-      <entry key="M15" value="11.046912350458209" />
-      <entry key="M30" value="11.866082313438476" />
-      <entry key="H1" value="13.493575224974904" />
-      <entry key="H2" value="15.183733528982652" />
-      <entry key="H4" value="16.412932315365097" />
-      <entry key="D1" value="17.706536055442367" />
-      <entry key="W1" value="17.95730702462227" />
+      <entry key="MS100" value="1.000145633698698" />
+      <entry key="MS500" value="1.7805374380664438" />
+      <entry key="S2" value="8.376478439929304" />
+      <entry key="S5" value="15.56177736956136" />
+      <entry key="S10" value="20.825270001485887" />
+      <entry key="S30" value="26.716105157226366" />
+      <entry key="S60" value="28.711680303555653" />
+      <entry key="M2" value="29.815882856984945" />
+      <entry key="M5" value="30.51632474090775" />
+      <entry key="M10" value="30.771241739470458" />
+      <entry key="M15" value="30.952611493601115" />
+      <entry key="M30" value="31.817109264682756" />
+      <entry key="H1" value="33.46730835534158" />
+      <entry key="H2" value="35.169678154696086" />
+      <entry key="H4" value="36.405569615445394" />
+      <entry key="D1" value="37.7052501947313" />
+      <entry key="W1" value="37.957121703596535" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -80,23 +80,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.4966427680550417" />
-      <entry key="MS500" value="1.065028770237531" />
-      <entry key="S2" value="2.2958600694143882" />
-      <entry key="S5" value="4.336594678315479" />
-      <entry key="S10" value="6.479661938087912" />
-      <entry key="S30" value="9.092840174300306" />
-      <entry key="S60" value="9.984162449822342" />
-      <entry key="M2" value="10.47541236509923" />
-      <entry key="M5" value="10.786045437199544" />
-      <entry key="M10" value="10.907192621070516" />
-      <entry key="M15" value="11.043825129245453" />
-      <entry key="M30" value="11.864202066675727" />
-      <entry key="H1" value="13.49229203445175" />
-      <entry key="H2" value="15.182913009185329" />
-      <entry key="H4" value="16.41245690935867" />
-      <entry key="D1" value="17.706445387854792" />
-      <entry key="W1" value="17.957293755401583" />
+      <entry key="MS100" value="0.047436379079616856" />
+      <entry key="MS500" value="1.2730637563046148" />
+      <entry key="S2" value="8.073941843514273" />
+      <entry key="S5" value="15.298930299736654" />
+      <entry key="S10" value="20.62398304044144" />
+      <entry key="S30" value="26.620888328348432" />
+      <entry key="S60" value="28.65924833983883" />
+      <entry key="M2" value="29.788332640074" />
+      <entry key="M5" value="30.504966334159985" />
+      <entry key="M10" value="30.7654857342057" />
+      <entry key="M15" value="30.948675642391233" />
+      <entry key="M30" value="31.814801757467986" />
+      <entry key="H1" value="33.46581080406393" />
+      <entry key="H2" value="35.16875018250444" />
+      <entry key="H4" value="36.405040384276575" />
+      <entry key="D1" value="37.705150538132415" />
+      <entry key="W1" value="37.95710714971271" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -134,10 +134,10 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.base">
+  <component name="RunManager">
     <configuration name="base" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="banco de dados" />
       <option name="ENV_FILES" value="" />
@@ -213,6 +213,11 @@
       <workItem from="1789663079021" duration="1103000" />
       <workItem from="1789672250936" duration="1620000" />
       <workItem from="1789732488141" duration="1589000" />
+      <workItem from="1789735468622" duration="157000" />
+      <workItem from="1789735676955" duration="179000" />
+      <workItem from="1789736353844" duration="194000" />
+      <workItem from="1789743041438" duration="155000" />
+      <workItem from="1789753979047" duration="3575000" />
     </task>
     <servers />
   </component>
@@ -221,8 +226,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/banco_de_dados$testar_conexao.coverage" NAME="testar_conexao Coverage Results" MODIFIED="1789673740399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/banco_de_dados$teste.coverage" NAME="teste Coverage Results" MODIFIED="1789673336027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python 2" />
-    <SUITE FILE_PATH="coverage/banco_de_dados$base.coverage" NAME="base Coverage Results" MODIFIED="1789663817350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/banco_de_dados$teste.coverage" NAME="teste Coverage Results" MODIFIED="1789755635513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python 2" />
+    <SUITE FILE_PATH="coverage/banco_de_dados$base.coverage" NAME="base Coverage Results" MODIFIED="1789736484266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/banco_de_dados$database.coverage" NAME="database Coverage Results" MODIFIED="1789673558974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
