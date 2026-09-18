@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af8ba7a5-a65a-4078-8db8-a33f1ddb5963" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python 2/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testar_conexao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/banco-de-dados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/banco-de-dados.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/01_criar_bancos.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/01_criar_bancos.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/02_criar_tabelas.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/.idea/banco de dados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/banco-de-dados.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/base.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,10 +134,10 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.base">
     <configuration name="base" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="banco de dados" />
       <option name="ENV_FILES" value="" />
@@ -223,7 +211,8 @@
       <updated>1789653513579</updated>
       <workItem from="1789653515811" duration="2863000" />
       <workItem from="1789663079021" duration="1103000" />
-      <workItem from="1789672250936" duration="1530000" />
+      <workItem from="1789672250936" duration="1620000" />
+      <workItem from="1789732488141" duration="1589000" />
     </task>
     <servers />
   </component>
