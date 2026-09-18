@@ -4,6 +4,7 @@ from sqlalchemy.orm import Session
 from database import get_db, engine, Base
 import models
 import schemas
+import auth
 
 # Cria as tabelas no banco (se ainda não existirem) com base nos models
 Base.metadata.create_all(bind=engine)
@@ -190,3 +191,38 @@ def buscar_pedido(pedido_id: int, db: Session = Depends(get_db)):
     if not pedido:
         raise HTTPException(status_code=404, detail="Pedido não encontrado")
     return pedido
+
+# Registrar um novo usuário
+@app.post("/registro", response_model=schemas.UsuarioResponse)
+def registrar(usuario: schemas.UsuarioCreate, db: Session = Depends(get_db)):
+    # Verifica se já existe usuário com esse email
+    existente = db.query(models.Usuario).filter(models.Usuario.email == usuario.email).first()
+    if existente:
+        raise HTTPException(status_code=400, detail="Email já cadastrado")
+
+    novo_usuario = models.Usuario(
+        nome=usuario.nome,
+        email=usuario.email,
+        senha_hash=auth.hash_senha(usuario.senha)
+    )
+    db.add(novo_usuario)
+    db.commit()
+    db.refresh(novo_usuario)
+    return novo_usuario
+
+
+# Login - gera o token de acesso
+@app.post("/login", response_model=schemas.TokenResponse)
+def login(dados: schemas.LoginRequest, db: Session = Depends(get_db)):
+    usuario = db.query(models.Usuario).filter(models.Usuario.email == dados.email).first()
+
+    if not usuario or not auth.verificar_senha(dados.senha, usuario.senha_hash):
+        raise HTTPException(status_code=401, detail="Email ou senha incorretos")
+
+    token = auth.criar_token({"sub": usuario.email})
+    return {"access_token": token, "token_type": "bearer"}
+
+if __name__ == "__main__":
+    import uvicorn
+
+    uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=False)
