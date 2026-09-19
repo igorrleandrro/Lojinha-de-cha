@@ -1,4 +1,4 @@
-# 🍵 Lojinha de Chá — API de Gestão de Estoque
+# 🍵 Lojinha de Chá - API de Gestão de Estoque
 
 API RESTful para gerenciamento de estoque, pedidos e clientes de uma loja de chás, desenvolvida com **FastAPI** e **MySQL**. Projeto construído do zero para praticar modelagem de banco de dados, autenticação, regras de negócio e deploy em produção.
 
