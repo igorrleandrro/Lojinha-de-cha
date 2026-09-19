@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="af8ba7a5-a65a-4078-8db8-a33f1ddb5963" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/auth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python 2/teste.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,23 +41,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000145633698698" />
-      <entry key="MS500" value="1.7805374380664438" />
-      <entry key="S2" value="8.376478439929304" />
-      <entry key="S5" value="15.56177736956136" />
-      <entry key="S10" value="20.825270001485887" />
-      <entry key="S30" value="26.716105157226366" />
-      <entry key="S60" value="28.711680303555653" />
-      <entry key="M2" value="29.815882856984945" />
-      <entry key="M5" value="30.51632474090775" />
-      <entry key="M10" value="30.771241739470458" />
-      <entry key="M15" value="30.952611493601115" />
-      <entry key="M30" value="31.817109264682756" />
-      <entry key="H1" value="33.46730835534158" />
-      <entry key="H2" value="35.169678154696086" />
-      <entry key="H4" value="36.405569615445394" />
-      <entry key="D1" value="37.7052501947313" />
-      <entry key="W1" value="37.957121703596535" />
+      <entry key="MS100" value="2.257837599836969" />
+      <entry key="MS500" value="5.123536398225524" />
+      <entry key="S2" value="9.472760440944118" />
+      <entry key="S5" value="17.391955457338344" />
+      <entry key="S10" value="25.04145049825952" />
+      <entry key="S30" value="34.59173166289763" />
+      <entry key="S60" value="37.99970645782248" />
+      <entry key="M2" value="39.91811486634011" />
+      <entry key="M5" value="41.14656801585404" />
+      <entry key="M10" value="41.58445160433921" />
+      <entry key="M15" value="41.827301576995" />
+      <entry key="M30" value="42.75279631201077" />
+      <entry key="H1" value="44.43360795693558" />
+      <entry key="H2" value="46.152035065455856" />
+      <entry key="H4" value="47.39646060746058" />
+      <entry key="D1" value="48.703681669975055" />
+      <entry key="W1" value="48.956896234818466" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -80,23 +79,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.047436379079616856" />
-      <entry key="MS500" value="1.2730637563046148" />
-      <entry key="S2" value="8.073941843514273" />
-      <entry key="S5" value="15.298930299736654" />
-      <entry key="S10" value="20.62398304044144" />
-      <entry key="S30" value="26.620888328348432" />
-      <entry key="S60" value="28.65924833983883" />
-      <entry key="M2" value="29.788332640074" />
-      <entry key="M5" value="30.504966334159985" />
-      <entry key="M10" value="30.7654857342057" />
-      <entry key="M15" value="30.948675642391233" />
-      <entry key="M30" value="31.814801757467986" />
-      <entry key="H1" value="33.46581080406393" />
-      <entry key="H2" value="35.16875018250444" />
-      <entry key="H4" value="36.405040384276575" />
-      <entry key="D1" value="37.705150538132415" />
-      <entry key="W1" value="37.95710714971271" />
+      <entry key="MS100" value="2.1234432039005915" />
+      <entry key="MS500" value="5.016139635798183" />
+      <entry key="S2" value="9.311389774358656" />
+      <entry key="S5" value="17.19543161411337" />
+      <entry key="S10" value="24.86169419421723" />
+      <entry key="S30" value="34.49343453336679" />
+      <entry key="S60" value="37.9433897028199" />
+      <entry key="M2" value="39.887916093955944" />
+      <entry key="M5" value="41.133963012831195" />
+      <entry key="M10" value="41.578039625860185" />
+      <entry key="M15" value="41.822921297925106" />
+      <entry key="M30" value="42.75026338360364" />
+      <entry key="H1" value="44.43199689606377" />
+      <entry key="H2" value="46.151050062284185" />
+      <entry key="H4" value="47.395902765319335" />
+      <entry key="D1" value="48.703577227857636" />
+      <entry key="W1" value="48.956880996808955" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -111,33 +110,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.base.executor&quot;: &quot;Run&quot;,
-    &quot;Python.database.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testar_conexao.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Igor/Documents/GitHub/banco-de-dados&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.base.executor": "Run",
+    "Python.database.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.testar_conexao.executor": "Run",
+    "Python.teste.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Igor/Documents/GitHub/banco-de-dados",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.main">
     <configuration name="base" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="banco de dados" />
@@ -245,7 +244,8 @@
       <workItem from="1789736353844" duration="194000" />
       <workItem from="1789743041438" duration="155000" />
       <workItem from="1789753979047" duration="8356000" />
-      <workItem from="1789830350380" duration="2970000" />
+      <workItem from="1789830350380" duration="4139000" />
+      <workItem from="1789837056913" duration="1091000" />
     </task>
     <servers />
   </component>
