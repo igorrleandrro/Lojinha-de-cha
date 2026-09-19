@@ -4,10 +4,10 @@
 
 ## 📌 Funcionalidades (Em Desenvolvimento)
 
-- [ ] Cadastro e listagem de produtos (chás, ervas e acessórios)
-- [ ] Conexão e persistência de dados via MySQL
-- [ ] Operações de CRUD (Criar, Ler, Atualizar e Deletar)
-- [ ] Gerenciamento de estoque e pedidos
+-  Cadastro e listagem de produtos (chás, ervas e acessórios)
+-  Conexão e persistência de dados via MySQL
+-  Operações de CRUD (Criar, Ler, Atualizar e Deletar)
+-  Gerenciamento de estoque e pedidos
 
 ---
 
